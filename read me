@@ -1,0 +1,5 @@
+hi!! 
+it's a simple chat in Python. i used tkinter, thread and socket.
+At first, you need rain main.py, then clients.
+it doesn't matter which client you run first. 
+You can make chat more than 2 people. just copy code from client in new file
